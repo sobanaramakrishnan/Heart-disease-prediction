@@ -1,1 +1,1 @@
-"# Heart-disease-prediction" 
+HeartDisease prediction using logistic regression algorithm.
